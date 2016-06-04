@@ -1,13 +1,63 @@
 
-.wrapper{
-width: 1200px;
+
+/*  page structure classes*/
+body{
+	background-color: black;
 }
+
+.wrapper{
+background-color: black;
+}
+.containera{
+	min-height: calc(100vh - 50px);
+}
+
+.gamecontainer{
+	width: 1100px;
+	height: 700px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+
+/*  style classes*/
 .fnttxt{
 	font-family: 
 }
+
 .border{
-border: blue solid;	
+	border: solid blue;	
 }
-.jumbotron{
-	margin:60px;
+.backgroundpic{
+	background-image: url("../images/jackp2.jpg");
 }
+
+h1{
+	background-color: white;
+	height: 80px;
+	padding-left: 60px;
+}
+
+h2{
+	text-align: center;
+	color: white;
+}
+.headfoot{
+	background-color: black;
+	height: 100px;
+}
+
+/*  javascript classes*/
+
+.hidejumbotron{
+	margin:0 auto;
+	color:black;
+}
+
+.jumbotronstyle{
+	margin: 30px auto;
+	height:625px;
+	width: 1300px;
+
+}
+

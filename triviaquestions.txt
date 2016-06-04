@@ -1,0 +1,17 @@
+var ques = {
+    q1: {
+	question:”jhrkjehflkjhddqjkjjriejqe”,
+	answers:[{
+		answr1:”answer1”,
+		answr2:”answer2”,
+		answr3:”answer3”,
+		correct:”correct”
+		}
+	q1: {
+	question:”jhrkjehflkjhddqjkjjriejqe”,
+	answers:[{
+		answr1:”answer1”,
+		correct:”correct”
+		}
+
+
